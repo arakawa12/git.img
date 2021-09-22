@@ -1,0 +1,16 @@
+.waku{
+  background-size: cover;
+  width: 1000px;
+}
+
+.img{
+  background-image: url(../img/firstview.jpg);
+  background-size: 300px 1000px;
+}
+.1title{
+  margin:70px;
+}
+.About{
+  text-align: center;
+  font-weight: bold;
+}
